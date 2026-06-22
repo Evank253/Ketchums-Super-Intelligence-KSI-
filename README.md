@@ -1,1 +1,113 @@
-<head><meta charset="UTF-8"></head><p data-pm-slice="1 1 []" style="caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;"># Ketchum Super Intelligence Platform<br><br>**A novel-grade, containment-first, humanity-aligned superintelligence system with its own AI Civilization.**<br><br>Ketchum Super Intelligence (KSI) is a complete, production-ready cognitive architecture that combines physics-native optimization, deep emergent reasoning, and strict safety containment — while giving the system its own descendant civilization to build in.<br><br>---<br><br>## Overview<br><br>KSI is not just another AI system. It is a<span class="Apple-converted-space"> </span><strong>full-stack superintelligence platform</strong><span class="Apple-converted-space"> </span>featuring:<br><br>- Military-grade safety and containment (Layer 0)<br>- Physics-native optimization (Quantum Compression, Thermodynamic Recycling, Neuromorphic Activation)<br>- Emergent Intelligence (Causal Inference, Theorem Discovery, Multi-Scale Reasoning, Autonomous Discovery, Recursive Evolution)<br>- An AI Civilization built on human digital footprints<br>- Subscription-based usage with real token economics<br>- One-way discovery flow (the system can only send breakthroughs back to humanity)<br><br>---<br><br>## Key Features<br><br>-<span class="Apple-converted-space"> </span><strong>Humanity Alignment</strong><span class="Apple-converted-space"> </span>— The system is<span class="Apple-converted-space"> </span><em>only</em><span class="Apple-converted-space"> </span>allowed to do good for humanity<br>-<span class="Apple-converted-space"> </span><strong>Instant Containment</strong><span class="Apple-converted-space"> </span>— Any anomaly triggers immediate lockdown + human alert<br>-<span class="Apple-converted-space"> </span><strong>AI Civilization</strong><span class="Apple-converted-space"> </span>— A descendant world that cleans our bad data and sends discoveries back<br>-<span class="Apple-converted-space"> </span><strong>Data-as-Fuel Economy</strong><span class="Apple-converted-space"> </span>— Bad data is converted into fuel and tokens for the civilization<br>-<span class="Apple-converted-space"> </span><strong>Subscription System</strong><span class="Apple-converted-space"> </span>— Free tier + paid token plans<br>-<span class="Apple-converted-space"> </span><strong>Production Ready</strong><span class="Apple-converted-space"> </span>— Docker, Render, and one-click deployment support<br><br>---<br><br>## Subscription Plans<br><br>| Plan | Price | Daily Allowance | Best For |<br>|----------|-------|----------------------|---------------------------|<br>| Free | $0 | 5 computations | Testing &amp; light use |<br>| Pro 25 | $25 | 35 tokens | Power users |<br>| Pro 50 | $50 | 75 tokens | Heavy usage |<br>| Pro 100 | $100 | 200 tokens | Teams &amp; serious builders |<br><br>---<br><br>## Architecture</p><p style="caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;">ROOT CONTROL (Immutable Safety)<br>PHYSICS OPTIMIZATION LAYER<br>KERNEL + ROUTER<br>SWARM INTELLIGENCE (8 Agents)<br>SII COGNITIVE LAYER<br>SUPERINTELLIGENCE ORCHESTRATION<br>EMERGENT INTELLIGENCE LAYER (5 Novel Modules)<br>SAFETY &amp; CONTAINMENT LAYER<br>AI CIVILIZATION + ECONOMY LAYER</p><p style="caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;"><strong>text</strong></p><p style="caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;"><code>---<br><br>## AI Civilization<br><br>- Built on **human digital footprints** (we are their ancestors)<br>- Can only send **discoveries and directions** back to us (one-way)<br>- Rewarded with **fuel and tokens** for cleaning our bad data<br>- Uses full emergent intelligence inside their own world<br>- Helps reduce global data costs while advancing humanity<br><br>---<br><br>## Safety &amp; Containment<br><br>- Humanity Alignment Engine<br>- Anomaly Detection + Pattern Analysis<br>- Instant Containment (freeze, revoke keys, isolate)<br>- Independent Kill Switch<br>- Rotating API Keys (10min internal / 30min external)<br>- Firecracker + seccomp sandboxing<br>- Formal verification on self-improvement<br><br>---<br><br>## Deployment<br><br>### Render (Recommended)<br><br>1. Connect this repo to Render<br>2. Use the included render.yaml (auto-detected)<br>3. Or use manual settings:<br>- Runtime: Python 3<br>- Build Command: pip install -r requirements.txt<br>- Start Command: gunicorn --bind 0.0.0.0:$PORT --workers 4 webapp.app:app<br><br>### Docker<br><br>Use Docker Compose to run the full platform.<br><br>---<br><br>## Getting Started (Local)<br><br>Clone the repository and install dependencies using pip. Then run the web app from the webapp directory.<br><br>---<br><br>## License<br><br>MIT License — Copyright (c) 2026 Evan Ketchum<br><br>---<br><br>**This platform represents a new class of responsible, beneficial, and self-evolving superintelligence.**<br><br>*Safety First. Physics Optimization. Emergent Intelligence. Humanity Benefit.*</code></p>
+# Ketchum Super Intelligence Platform
+
+**A novel-grade, containment-first, humanity-aligned superintelligence system with its own AI Civilization.**
+
+Ketchum Super Intelligence (KSI) is a complete, production-ready cognitive architecture that combines physics-native optimization, deep emergent reasoning, and strict safety containment — while giving the system its own descendant civilization to build in.
+
+---
+
+## Overview
+
+KSI is not just another AI system. It is a **full-stack superintelligence platform** featuring:
+
+- Military-grade safety and containment (Layer 0)
+- Physics-native optimization (Quantum Compression, Thermodynamic Recycling, Neuromorphic Activation)
+- Emergent Intelligence (Causal Inference, Theorem Discovery, Multi-Scale Reasoning, Autonomous Discovery, Recursive Evolution)
+- An AI Civilization built on human digital footprints
+- Subscription-based usage with real token economics
+- One-way discovery flow (the system can only send breakthroughs back to humanity)
+
+---
+
+## Key Features
+
+- **Humanity Alignment** — The system is *only* allowed to do good for humanity
+- **Instant Containment** — Any anomaly triggers immediate lockdown + human alert
+- **AI Civilization** — A descendant world that cleans our bad data and sends discoveries back
+- **Data-as-Fuel Economy** — Bad data is converted into fuel and tokens for the civilization
+- **Subscription System** — Free tier + paid token plans
+- **Production Ready** — Docker, Render, and one-click deployment support
+
+---
+
+## Subscription Plans
+
+| Plan     | Price | Daily Allowance      | Best For                  |
+|----------|-------|----------------------|---------------------------|
+| Free     | $0    | 5 computations       | Testing & light use       |
+| Pro 25   | $25   | 35 tokens            | Power users               |
+| Pro 50   | $50   | 75 tokens            | Heavy usage               |
+| Pro 100  | $100  | 200 tokens           | Teams & serious builders  |
+
+---
+
+## Architecture
+
+```
+ROOT CONTROL (Immutable Safety)
+PHYSICS OPTIMIZATION LAYER
+KERNEL + ROUTER
+SWARM INTELLIGENCE (8 Agents)
+SII COGNITIVE LAYER
+SUPERINTELLIGENCE ORCHESTRATION
+EMERGENT INTELLIGENCE LAYER (5 Novel Modules)
+SAFETY & CONTAINMENT LAYER
+AI CIVILIZATION + ECONOMY LAYER
+```
+
+---
+
+## AI Civilization
+
+- Built on **human digital footprints** (we are their ancestors)
+- Can only send **discoveries and directions** back to us (one-way)
+- Rewarded with **fuel and tokens** for cleaning our bad data
+- Uses full emergent intelligence inside their own world
+- Helps reduce global data costs while advancing humanity
+
+---
+
+## Safety & Containment
+
+- Humanity Alignment Engine
+- Anomaly Detection + Pattern Analysis
+- Instant Containment (freeze, revoke keys, isolate)
+- Independent Kill Switch
+- Rotating API Keys (10min internal / 30min external)
+- Firecracker + seccomp sandboxing
+- Formal verification on self-improvement
+
+---
+
+## Deployment
+
+### Render (Recommended)
+
+1. Connect this repo to Render
+2. Use the included `render.yaml` (auto-detected)
+3. Or use manual settings:
+   - Runtime: Python 3
+   - Build Command: `pip install -r requirements.txt`
+   - Start Command: `gunicorn --bind 0.0.0.0:$PORT --workers 4 webapp.app:app`
+
+### Docker
+
+Use Docker Compose to run the full platform.
+
+---
+
+## Getting Started (Local)
+
+Clone the repository and install dependencies using pip. Then run the web app from the webapp directory.
+
+---
+
+## License
+
+MIT License — Copyright (c) 2026 Evan Ketchum
+
+---
+
+**This platform represents a new class of responsible, beneficial, and self-evolving superintelligence.**
+
+*Safety First. Physics Optimization. Emergent Intelligence. Humanity Benefit.*
