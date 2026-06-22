@@ -104,7 +104,7 @@ Clone the repository and install dependencies using pip. Then run the web app fr
 
 ## License
 
-MIT License — Copyright (c) 2026 Evan Ketchum
+Copyright (c) 2026 Evan Ketchum. All Rights Reserved.
 
 ---
 
